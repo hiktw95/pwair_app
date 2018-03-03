@@ -1,5 +1,7 @@
 <template>
-  <div>LoginHeader</div>
+  <div>
+    <h1>PWAir</h1>
+  </div>
 </template>
 
 <script>
